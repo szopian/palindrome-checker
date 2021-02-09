@@ -9,3 +9,6 @@ function palindrome(str) {
 
 let r = palindrome("Not a palindrome");
 console.log(r);
+
+let eye = palindrome("eye");
+console.log(eye);
